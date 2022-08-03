@@ -1,2 +1,0 @@
-Kindly note the coding is done with python 2.7.
-You need to change few code before executing the file.
